@@ -1,0 +1,2 @@
+[workspace]
+members = ["lorgn_lang", "lorgn_runtime"]
