@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/MajorBarnulf/lorgn"
 
 [dependencies]
-lorgn_lang = { path = "../lorgn_lang" }
+lorgn_lang = "0.1"
 gc = "0.4"
 gc_derive = "0.4"
 ron = "0.8"
