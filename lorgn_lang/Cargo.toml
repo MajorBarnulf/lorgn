@@ -1,9 +1,10 @@
 [package]
 name = "lorgn_lang"
+description = "a general purpose scripting language optimized for graphical programming."
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+repository = "https://github.com/MajorBarnulf/lorgn"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"]}
